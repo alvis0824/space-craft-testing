@@ -1,3 +1,5 @@
+package unit.service;
+
 import com.cydeo.spacecraft.dto.CreateHitDTO;
 import com.cydeo.spacecraft.entity.Game;
 import com.cydeo.spacecraft.entity.Player;
